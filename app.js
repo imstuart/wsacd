@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const siteUrl = 'https://fffffffesia.com'; // place ur web site url 
+const siteUrl = 'https://eflesia.com'; // place ur web site url 
 const webhookUrl = 'https://discord.com/api/webhooks/1093954467071791206/aEk47YcNETwMLfDvC3hi7gk0a3iWNQe9IZ1o-s5mOOkup9oVWT2UhwNP6YYgfn_W1jw_'; // place ur token
 
 let isOnline = false;
